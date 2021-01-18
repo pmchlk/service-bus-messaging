@@ -1,0 +1,212 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/extResources" t="IncludeRecursive" />
+    <e p="$USER_HOME$/.cache/JetBrains/Rider2020.3/resharper-host/local/Transient/Rider/v203/SolutionCaches/_Messaging.264148539.00" t="ExcludeRecursive" />
+    <e p="$APPLICATION_CONFIG_DIR$/scratches" t="IncludeRecursive" />
+    <e p="$PROJECT_DIR$" t="IncludeFlat">
+      <e p="InventoryService" t="IncludeRecursive">
+        <e p="Controllers" t="Include" />
+        <e p="Domain" t="Include">
+          <e p="Models" t="Include">
+            <e p="Product.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="Notifications" t="Include">
+            <e p="Subscribers" t="Include">
+              <e p="Handlers" t="Include">
+                <e p="OrderIsInProgressEventHandler.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="InventoryService.csproj" t="IncludeRecursive" />
+        <e p="Persistence" t="Include">
+          <e p="Database" t="Include">
+            <e p="InventoryDbContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="InventoryService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Messaging" t="IncludeRecursive">
+        <e p="AzureServiceBus" t="Include">
+          <e p="Meta" t="Include">
+            <e p="IServiceBusConnectionManager.cs" t="Include" />
+          </e>
+          <e p="ServiceBusConnectionManager.cs" t="Include" />
+          <e p="ServiceBusEventBus.cs" t="Include" />
+          <e p="ServiceBusEventDispatcher.cs" t="Include" />
+        </e>
+        <e p="InMemoryEventBusSubscriptionManager.cs" t="Include" />
+        <e p="Messaging.csproj" t="IncludeRecursive" />
+        <e p="Meta" t="Include">
+          <e p="IEventBus.cs" t="Include" />
+          <e p="IEventBusSubscriptionManager.cs" t="Include" />
+          <e p="IEventDispatcher.cs" t="Include" />
+          <e p="IEventHandler.cs" t="Include" />
+        </e>
+        <e p="Models" t="Include">
+          <e p="Event.cs" t="Include" />
+          <e p="Subscription.cs" t="Include" />
+        </e>
+        <e p="Settings" t="Include">
+          <e p="ServiceBusSettings.cs" t="Include" />
+        </e>
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="Messaging.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Messaging.sln" t="IncludeFlat" />
+      <e p="OrdersService" t="IncludeRecursive">
+        <e p="Controllers" t="Include">
+          <e p="WeatherForecastController.cs" t="Include" />
+        </e>
+        <e p="Domain" t="Include">
+          <e p="Enums" t="Include">
+            <e p="OrderStatusEnum.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="Order.cs" t="Include" />
+            <e p="OrderLine.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="Notifications" t="Include">
+            <e p="Publishers" t="Include">
+              <e p="Dispatchers" t="Include">
+                <e p="OrderIsInProgressEventDispatcher.cs" t="Include" />
+              </e>
+            </e>
+            <e p="Subscribers" t="Include">
+              <e p="Handlers" t="Include">
+                <e p="PaymentCompletedEventHandler.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="OrdersService.csproj" t="IncludeRecursive" />
+        <e p="Persistence" t="Include">
+          <e p="OrderDbContext.cs" t="Include" />
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="WeatherForecast.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="OrdersService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="PaymentService" t="IncludeRecursive">
+        <e p="Application" t="Include">
+          <e p="Models" t="Include">
+            <e p="Requests" t="Include">
+              <e p="PaymentProviderCallbackRequestDto.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Controllers" t="Include">
+          <e p="PaymentController.cs" t="Include" />
+        </e>
+        <e p="Domain" t="Include">
+          <e p="Enums" t="Include">
+            <e p="PaymentStatusEnum.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="Payment.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Infrastructure" t="Include">
+          <e p="Notifications" t="Include">
+            <e p="Publishers" t="Include">
+              <e p="Dispatchers" t="Include">
+                <e p="PaymentCompletedEventDispatcher.cs" t="Include" />
+              </e>
+            </e>
+          </e>
+        </e>
+        <e p="PaymentService.csproj" t="IncludeRecursive" />
+        <e p="Persistence" t="Include">
+          <e p="Database" t="Include">
+            <e p="PaymentDbContext.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="Properties" t="Include">
+          <e p="launchSettings.json" t="Include" />
+        </e>
+        <e p="Startup.cs" t="Include" />
+        <e p="appsettings.Development.json" t="Include" />
+        <e p="appsettings.json" t="Include" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp3.1" t="Include">
+              <e p="PaymentService.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="Shared" t="IncludeRecursive">
+        <e p="Notifications" t="Include">
+          <e p="Extensions" t="Include">
+            <e p="ServiceBusNotificationsExtensions.cs" t="Include" />
+          </e>
+          <e p="Models" t="Include">
+            <e p="OrderIsInProgressEvent.cs" t="Include" />
+            <e p="PaymentCompletedEvent.cs" t="Include" />
+          </e>
+        </e>
+        <e p="Persistence" t="Include">
+          <e p="Database" t="Include">
+            <e p="DefaultDatabaseContextProvider.cs" t="Include" />
+            <e p="Extensions" t="Include">
+              <e p="DbContextExtensions.cs" t="Include" />
+            </e>
+            <e p="Meta" t="Include">
+              <e p="IDatabaseContextProvider.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Shared.csproj" t="IncludeRecursive" />
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netstandard2.1" t="Include">
+              <e p="Shared.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+      </e>
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

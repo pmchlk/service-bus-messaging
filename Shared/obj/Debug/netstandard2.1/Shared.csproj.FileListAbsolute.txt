@@ -1,0 +1,12 @@
+/home/pmi/repos/Messaging/Shared/bin/Debug/netstandard2.1/Shared.deps.json
+/home/pmi/repos/Messaging/Shared/bin/Debug/netstandard2.1/Shared.dll
+/home/pmi/repos/Messaging/Shared/bin/Debug/netstandard2.1/Shared.pdb
+/home/pmi/repos/Messaging/Shared/bin/Debug/netstandard2.1/Messaging.dll
+/home/pmi/repos/Messaging/Shared/bin/Debug/netstandard2.1/Messaging.pdb
+/home/pmi/repos/Messaging/Shared/obj/Debug/netstandard2.1/Shared.csprojAssemblyReference.cache
+/home/pmi/repos/Messaging/Shared/obj/Debug/netstandard2.1/Shared.AssemblyInfoInputs.cache
+/home/pmi/repos/Messaging/Shared/obj/Debug/netstandard2.1/Shared.AssemblyInfo.cs
+/home/pmi/repos/Messaging/Shared/obj/Debug/netstandard2.1/Shared.csproj.CoreCompileInputs.cache
+/home/pmi/repos/Messaging/Shared/obj/Debug/netstandard2.1/Shared.csproj.CopyComplete
+/home/pmi/repos/Messaging/Shared/obj/Debug/netstandard2.1/Shared.dll
+/home/pmi/repos/Messaging/Shared/obj/Debug/netstandard2.1/Shared.pdb

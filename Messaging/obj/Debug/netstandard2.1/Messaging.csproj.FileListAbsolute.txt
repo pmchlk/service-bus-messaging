@@ -1,0 +1,9 @@
+/home/pmi/repos/Messaging/Messaging/bin/Debug/netstandard2.1/Messaging.deps.json
+/home/pmi/repos/Messaging/Messaging/bin/Debug/netstandard2.1/Messaging.dll
+/home/pmi/repos/Messaging/Messaging/bin/Debug/netstandard2.1/Messaging.pdb
+/home/pmi/repos/Messaging/Messaging/obj/Debug/netstandard2.1/Messaging.csprojAssemblyReference.cache
+/home/pmi/repos/Messaging/Messaging/obj/Debug/netstandard2.1/Messaging.AssemblyInfoInputs.cache
+/home/pmi/repos/Messaging/Messaging/obj/Debug/netstandard2.1/Messaging.AssemblyInfo.cs
+/home/pmi/repos/Messaging/Messaging/obj/Debug/netstandard2.1/Messaging.csproj.CoreCompileInputs.cache
+/home/pmi/repos/Messaging/Messaging/obj/Debug/netstandard2.1/Messaging.dll
+/home/pmi/repos/Messaging/Messaging/obj/Debug/netstandard2.1/Messaging.pdb
